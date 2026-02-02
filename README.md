@@ -71,6 +71,6 @@ int main()
 ```
 ## OUTPUT
 <img width="1591" height="833" alt="Screenshot 2026-02-02 093841" src="https://github.com/user-attachments/assets/2e2df924-4fdc-4cea-bb30-83db27a58434" />
-RESULT
 
+## RESULT:
 The program was executed successfully, and the Rail Fence Cipher encryption was obtained for the given input.
